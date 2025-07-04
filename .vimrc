@@ -10,3 +10,4 @@ set cursorline
 
 colorscheme zaibatsu
 
+just testing my laptop
